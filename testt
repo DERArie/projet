@@ -1,0 +1,3 @@
+@echo off
+echo its okay
+timeout 10
